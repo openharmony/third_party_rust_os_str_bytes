@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "os_str_bytes",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "6.4.1",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/dylni/os_str_bytes",
+    "Description": "A Rust library that provides support for working with OS strings and bytes."
+  }
+]
